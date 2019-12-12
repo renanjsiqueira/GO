@@ -1,0 +1,18 @@
+{
+    "Serviceconfigs": [
+    {
+        "jhost" : "uourhost",
+        "jport" : 5432,
+        "juser" : "postgres",
+        "jpassword" : "postgres",
+        "jdbname" : "postgres",
+        "jPassKey" : "endKey",
+        "jPassKeyInit" : "InitKey",
+        "jlimit" : 1000
+
+    }
+    ]
+}
+
+
+

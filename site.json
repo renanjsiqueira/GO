@@ -1,0 +1,12 @@
+{
+    "Siteconfig": [
+    {
+        "name" : "Your Service",
+        "url" : "http://www.google.com.br"
+    },
+    {
+        "name" : "Falha Site teste",
+        "url" : "https://httpstat.us/500?sleep=5000"
+    }
+    ]
+}

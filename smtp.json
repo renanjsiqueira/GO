@@ -1,0 +1,13 @@
+{
+    "SMTPconfigs": [
+    {
+        "fromc" : "",
+        "toc" : "",
+        "passwordc" : "",
+        "hostc" : "email-smtp.us-east-1.amazonaws.com",
+        "portc" : "25",
+        "userc" : ""
+    }
+    ]
+}
+

@@ -1,0 +1,15 @@
+{
+    "config": [
+    {
+        "sendemail" : true,
+        "log" : false,
+        "logdown" : true,
+        "filelog" : "local",
+        "filename" : "logmonitoring.txt",
+        "interval" : 60,
+        "delay" : 2,
+        "countdown" : 3   
+    }
+    ]
+}
+
